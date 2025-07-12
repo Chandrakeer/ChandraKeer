@@ -1,5 +1,5 @@
 ## Hi there, I'm Chandra👋
-Thanks for stopping by! I'm a backend-focused developer who loves transforming ideas into clean, scalable code. Whether it's crafting RESTful APIs with Java & Spring Boot or deploying cloud-native apps on AWS — I'm all about solving real problems (with plenty of coffee ☕).
+Thanks for stopping by! I'm a backend-focused developer who loves transforming ideas into clean, scalable code. Whether it's crafting RESTful APIs with Java & Spring Boot or deploying cloud-native apps on AWS. I'm all about solving real problems with plenty of coffee ☕.
 
 ---
 
